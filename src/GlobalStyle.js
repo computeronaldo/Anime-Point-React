@@ -12,8 +12,9 @@ const GlobalStyle = createGlobalStyle`
     }
     
     body {
-        background-color: red;
+        color: #6c7983;
+        font-size: 1.2rem;
     }
 `;
 
-export default GlobalStyle
+export default GlobalStyle;
